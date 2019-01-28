@@ -1,3 +1,4 @@
-### Personal space for EugeneHao
-
-Add the names of any files you don't want to commit to the ```.gitignore``` file in this directory.
+### Model Progress
+| Error | model | parameters | notes | 
+| --- | ----- | ---------- | ----- |
+| 235.001 | XGBoost | msubsample=0.6,eta=0.3| logistic regression, use full data, add Discount, Weekdays, Season, Thanksgivng |
